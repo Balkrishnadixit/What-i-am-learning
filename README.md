@@ -2,6 +2,8 @@ Blogs to read
 
 ## Blogs
 
+https://abhisheklearn12.github.io/blogs/memory.html
+
 1. **Git foundation: Start here**
    - Link: <https://git-foundations-start-here.hashnode.dev/git-foundations-start-here?t=1767873485472>
 
