@@ -2,6 +2,10 @@ Blogs to read
 
 ## Blogs
 
+
+
+
+https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/
 https://abhisheklearn12.github.io/blogs/memory.html
 
 1. **Git foundation: Start here**
