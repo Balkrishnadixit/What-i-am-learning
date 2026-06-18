@@ -1,9 +1,11 @@
 Blogs to read
 
 ## Blogs
-
-
-
+https://lifemathmoney.com/how-to-get-rich-without-getting-lucky-an-analysis-of-the-naval-tweetstorm/
+https://lifemathmoney.com/quotes-from-chanakya-neeti-part-1/
+https://lifemathmoney.com/income-streams/
+https://lifemathmoney.com/the-most-effective-money-advice-youll-ever-get/
+https://lifemathmoney.com/what-is-fuck-you-money-5-levels/
 
 https://aws.amazon.com/blogs/machine-learning/from-pdfs-to-insights-architecting-an-intelligent-document-processing-pipeline-with-aws-generative-ai-services/
 https://abhisheklearn12.github.io/blogs/memory.html
