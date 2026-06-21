@@ -1,6 +1,7 @@
 Blogs to read
 
 ## Blogs
+https://github.com/labmlai/annotated_deep_learning_paper_implementations
 https://lifemathmoney.com/how-to-get-rich-without-getting-lucky-an-analysis-of-the-naval-tweetstorm/
 https://lifemathmoney.com/quotes-from-chanakya-neeti-part-1/
 https://lifemathmoney.com/income-streams/
