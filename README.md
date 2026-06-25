@@ -3,6 +3,7 @@ Blogs to read
 ## Blogs
 
 https://www.youtube.com/watch?v=6nyJ8y8ghsE&t=1s
+https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf
 https://github.com/labmlai/annotated_deep_learning_paper_implementations
 https://lifemathmoney.com/how-to-get-rich-without-getting-lucky-an-analysis-of-the-naval-tweetstorm/
 https://lifemathmoney.com/quotes-from-chanakya-neeti-part-1/
