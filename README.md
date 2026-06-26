@@ -1,8 +1,8 @@
 Blogs to read
 
 ## Blogs
+https://x.com/ramxcodes/status/2061348882832081319  FAQS REALTED TO CODING 
 
-https://www.youtube.com/watch?v=6nyJ8y8ghsE&t=1s
 https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf
 https://github.com/labmlai/annotated_deep_learning_paper_implementations
 https://lifemathmoney.com/how-to-get-rich-without-getting-lucky-an-analysis-of-the-naval-tweetstorm/
@@ -68,8 +68,8 @@ https://abhisheklearn12.github.io/blogs/memory.html
 18. **Function Declaration vs Function Expression: What’s the Difference?**
     - Link: <https://jsfunctiontypes.hashnode.dev/function-declaration-vs-function-expression-what-s-the-difference>
 
-
-
+# videos
+https://www.youtube.com/watch?v=6nyJ8y8ghsE&t=1s
 
 https://www.youtube.com/watch?v=TZ5a3gCCZYo
 
