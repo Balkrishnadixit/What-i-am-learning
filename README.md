@@ -1,7 +1,12 @@
 Blogs to read
 
 ## Blogs
+
+
 https://x.com/ramxcodes/status/2061348882832081319  FAQS REALTED TO CODING 
+
+
+https://medium.com/@saad.ahmed1926q/kv-cache-explained-intuitively-2b425a36dfc7
 
 https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf
 https://github.com/labmlai/annotated_deep_learning_paper_implementations
