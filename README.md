@@ -1,6 +1,7 @@
 Blogs to read
 
 ## Blogs
+https://medium.com/@sadkatwt/ultimate-guide-to-vms-and-hypervisors-af9241325e81
 https://x.com/distroaryan/status/2078491287234527389
 https://github.com/iam-veeramalla/observability-zero-to-hero
 https://x.com/ramxcodes/status/2061348882832081319  FAQS REALTED TO CODING 
