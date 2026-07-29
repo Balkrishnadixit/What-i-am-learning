@@ -1,6 +1,7 @@
 Blogs to read
 
 ## Blogs
+https://clickhouse.com/blog/strict-memory-overcommit-for-postgres
 https://www.jackedaj.com/how-to-get-10k-followers-on-twitter
 https://arxiv.org/pdf/2209.07663
 https://medium.com/@sadkatwt/ultimate-guide-to-vms-and-hypervisors-af9241325e81
