@@ -1,6 +1,7 @@
 Blogs to read
 
 ## Blogs
+https://medium.com/@adityaanjana/how-llm-inference-actually-works-and-what-it-costs-to-run-in-2026-343ed2686fa8
 https://clickhouse.com/blog/strict-memory-overcommit-for-postgres
 https://www.jackedaj.com/how-to-get-10k-followers-on-twitter
 https://arxiv.org/pdf/2209.07663
