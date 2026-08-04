@@ -1,6 +1,7 @@
 Blogs to read
 
 ## Blogs
+https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/
 https://medium.com/@adityaanjana/how-llm-inference-actually-works-and-what-it-costs-to-run-in-2026-343ed2686fa8
 https://clickhouse.com/blog/strict-memory-overcommit-for-postgres
 https://www.jackedaj.com/how-to-get-10k-followers-on-twitter
