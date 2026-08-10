@@ -1,6 +1,7 @@
 Blogs to read
 
 ## Blogs
+https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres
 https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/
 https://medium.com/@adityaanjana/how-llm-inference-actually-works-and-what-it-costs-to-run-in-2026-343ed2686fa8
 https://clickhouse.com/blog/strict-memory-overcommit-for-postgres
