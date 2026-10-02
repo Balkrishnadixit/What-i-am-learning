@@ -1,6 +1,14 @@
 Blogs to read
 
 ## Blogs
+
+How to find good problems 
+https://lalitm.com/post/find-problems-staff-engineer/
+
+How to solve problems: 
+https://opeonikute.dev/posts/how-to-solve-hard-problems
+
+
 https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres
 https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/
 https://medium.com/@adityaanjana/how-llm-inference-actually-works-and-what-it-costs-to-run-in-2026-343ed2686fa8
