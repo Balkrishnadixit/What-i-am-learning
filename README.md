@@ -2,6 +2,31 @@ Blogs to read
 
 ## Blogs
 
+Substacks to read
+
+i often come back & i still need to figure more tho, but here you go.
+
+- https://jayalto.substack.com
+- https://signull.substack.com
+- https://gaxrav.substack.com
+- https://pmarca.substack.com
+- https://letters.thedankoe.com
+- https://timdenning.substack.com
+
+ah here's my like/saved ones...
+
+- https://substack.com/inbox/post/210532206
+- https://substack.com/inbox/post/203766282
+- https://substack.com/inbox/post/209573342
+- https://substack.com/inbox/post/182895254
+- https://substack.com/inbox/post/210470132
+- https://substack.com/inbox/post/160178343
+- https://substack.com/inbox/post/187164875
+- https://substack.com/inbox/post/207270354
+- https://substack.com/inbox/post/212563073
+- https://substack.com/inbox/post/192833552
+
+
 How to find good problems 
 https://lalitm.com/post/find-problems-staff-engineer/
 
