@@ -33,6 +33,17 @@ https://lalitm.com/post/find-problems-staff-engineer/
 How to solve problems: 
 https://opeonikute.dev/posts/how-to-solve-hard-problems
 
+Inference engineering
+Videos:
+1. https://youtu.be/_xM8scs4_x4?si=AWkpshdKTzd9CtYB
+2. https://youtu.be/uqUZ_H_m2Yg?si=p6D9VGfzRnoiVw4T
+3. https://youtube.com/live/N_Nqlt8Z8kg?si=ASkOvLyrlYiMiL63
+
+Blogs and Articles:
+1. https://blog.bytebytego.com/p/a-guide-to-ai-inference-engineering
+2. https://learn-inference.com
+3. 
+
 
 https://clickhouse.com/blog/wal-backpressure-clickhouse-managed-postgres
 https://developer.nvidia.com/blog/how-to-run-isolated-tenant-kubernetes-clusters-on-shared-gpu-infrastructure/
